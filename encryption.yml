@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: wkk
+    password: '{cipher}f4a5d6ddbe7d4d5670f6324fd6d282b7c9bb26d8e0a271d053d26e0774b7be18'
